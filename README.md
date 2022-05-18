@@ -23,13 +23,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"width="40" height="40" />
 </div>
 
-<div>
+<!--<div>
 <a href="https://github.com/PedroColletti">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroColletti&hide=html,php,blade,scss,shell&layout=compact"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroColletti&show_icons=true&theme=compact&include_all_commits=true&count_private=true"/>
 </div>
-
-
-
-  
-
+https://github.com/anuraghazra/github-readme-stats -> Lib oficial 
+-->
