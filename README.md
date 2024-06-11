@@ -7,7 +7,7 @@
 
 <div> 
 - 🌐 Meu site ->  https://pedrocolletti.netlify.app/ <br>
-- 💻 Sou Desenvolvedor Fullstack na <a href="https://github.com/beonup">BEONUP</a>.<br>
+- 💻 Sou Desenvolvedor Fullstack.<br>
 - 🌱 Utilizo TypeScript/NodeJS/ReactJS/Docker. <br>
 - 🎯 Projetos executados em squads com metodologias ágeis. <br>
 -  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="20"/> Repositório Git/GitHub
